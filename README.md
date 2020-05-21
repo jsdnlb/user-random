@@ -1,4 +1,8 @@
-# prueba
+# Descripción user-random
+La idea es utilizar una api para generar usuarios y una interfaz con dicha información, inicialmente no va tener ningún tipo de objetivo, pero eventualmente la idea es integrarle algunos módulos para hacerla más interesante.
+
+# Inicializar user-random
+
 
 ## Project setup
 ```
